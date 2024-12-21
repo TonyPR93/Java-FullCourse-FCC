@@ -1,0 +1,6 @@
+/bin/
+
+org.eclipse.*
+
+.classpath
+.project
